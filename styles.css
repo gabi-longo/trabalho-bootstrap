@@ -1,0 +1,38 @@
+body{
+    background-color:#f1cfd1 ;
+    margin: 0;
+}
+.main {
+    flex: 1;
+}
+footer{
+    width: 100%;
+    background-color: rgb(229, 231, 233);
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+#logo{
+  width: 400px;
+  height: 400px; 
+  padding-right: 5%;
+}
+.sobre-nos-container{
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    align-items: center;
+    display: flex;
+}
+#card-catalogo{
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+#catalogofrase{
+    text-align: center;
+    color: white;
+}
